@@ -23,5 +23,5 @@ This is a FastAPI application that enables users to ask natural language questio
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/cv-query-api.git
-   cd cv-query-api
+   git clone git@github.com:jdedios-de/rag_jerome_cv.git
+   cd rag_jerome_cv
